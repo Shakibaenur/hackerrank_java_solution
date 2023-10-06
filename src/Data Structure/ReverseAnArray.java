@@ -62,3 +62,6 @@ public class Solution {
         bufferedWriter.close();
     }
 }
+
+//T.C: O(n)
+//S.C: O(n)
